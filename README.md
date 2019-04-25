@@ -1,10 +1,10 @@
 # CS591HW4
 
+I am extremely sorry for the delay!
+
+It is a simple weather APP. The home page present the temperature in Boston While in setting user can change the city.
 
 I did some research online and this project follow the guide from https://www.youtube.com/watch?v=f7w5c6IlmaA
-
-The home page present the temperature in Boston While in setting user can change the city.
-
 
 
 
