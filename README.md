@@ -3,6 +3,8 @@
 
 I did some research online and this project follow the guide from https://www.youtube.com/watch?v=f7w5c6IlmaA
 
+The home page present the temperature in Boston While in setting user can change the city.
+
 
 
 
